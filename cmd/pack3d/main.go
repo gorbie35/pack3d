@@ -14,7 +14,7 @@ import (
 
 const (
 	bvhDetail           = 8
-	annealingIterations = 2000000
+	annealingIterations = 150
 )
 
 func timed(name string) func() {
